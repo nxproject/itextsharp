@@ -1,3 +1,7 @@
+# iTextSharp for .NET Core 3.1
+
+NOTE: All that was done was to recompile as a .NET Core 3.1 project.
+
 iTextSharp consists of several dlls.
 
 The main iTextSharp release contains:
